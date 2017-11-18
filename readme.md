@@ -24,7 +24,7 @@ von den Lernenden verwendet werden.
 6. Sitzung: Datenanalyse II: pandas
 7. Sitzung: Datenanalyse III: matplotlib
 8. Sitzung: Datenanalyse IV: scikit-learn
-
+9. Sitzung: XML Daten mit lxml verarbeiten
 
 Autor: Fotis Jannidis
 (8. Sitzung besteht aus Teilen der Dokumentation von scikit-learn)
