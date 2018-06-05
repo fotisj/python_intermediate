@@ -1,0 +1,49 @@
+import os
+os.chd
+os.chdir(r"C:\daten\Dropbox\uni\Würzburg\lehre\seminare\python für fortgeschrittene\ipython")
+import numpy as np
+data = np.loadtxt("internetnutzung.csv", delimiter=";", skiprows=1, usecols=1:)
+data = np.loadtxt("internetnutzung.csv", delimiter=";", skiprows=1, usecols=(1,))
+data
+data = np.loadtxt("inutzung.csv", delimiter=";", skiprows=1, usecols=(1,))
+data = np.loadtxt("inutzung.csv", delimiter=";", skiprows=1, usecols=(1,))
+data = np.loadtxt("inutzung.csv", delimiter=",", skiprows=1, usecols=(1,))
+data
+data = np.loadtxt("inutzung.csv", delimiter=",", skiprows=1)
+data = np.loadtxt("inutzung.csv", delimiter=",", skiprows=1, usecols=(1,), ndmin=2)
+data
+data = np.loadtxt("inutzung.csv", delimiter=",", skiprows=1, usecols=(1,5), ndmin=2)
+data
+data = np.loadtxt("inutzung.csv", delimiter=",", skiprows=1, usecols=(1:5), ndmin=2)
+data = np.loadtxt("inutzung.csv", delimiter=",", skiprows=1, usecols=(range(1:6)), ndmin=2)
+range(1:6)
+list(range(1,6))
+data = np.loadtxt("inutzung.csv", delimiter=",", skiprows=1, usecols=(range(1,6)), ndmin=2)
+data
+import csv
+with open('inutzung.csv', newline='') as f:
+    reader = csv.reader(f)
+with open('inutzung.csv', newline='') as f:
+    reader = csv.reader(f)
+    for l in reader:
+        print(l)
+with open('inutzung.csv') as f:
+    reader = csv.reader(f)
+    for l in reader:
+        print(l)
+data = np.loadtxt("inutzung.csv", delimiter=",", skiprows=1, usecols=(range(1,6)))
+data
+data[0]
+data[0:2:2]
+y = np.arange(35).reshape(5,7)
+y
+y[1:5:2,::3]
+y[1:5,::]
+y[1:3,::]
+y[1:3,:3]
+y
+x = np.arange(10)
+x
+%quickref
+os.listdir()
+%hist -f dir

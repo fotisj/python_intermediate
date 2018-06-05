@@ -1,0 +1,9 @@
+#-c -f C:\daten\Dropbox\uni\PROJEKT\Programmieren\.ipython\profile_default\security\kernel-f3176284-f694-4517-9200-9d2fed3a0671.json --IPKernelApp.parent_appname='ipython-notebook' --profile-dir C:\daten\Dropbox\uni\PROJEKT\Programmieren\.ipython\profile_default --interrupt=948 --parent=952
+# GMT Thu Nov 20 12:27:23 2014
+# 
+C D A
+D A E
+F E
+B A
+A
+E

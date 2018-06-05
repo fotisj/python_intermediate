@@ -1,0 +1,1 @@
+\python33b\scripts\ipython3 nbconvert --to html python_1.ipynb 

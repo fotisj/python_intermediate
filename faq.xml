@@ -12,4 +12,9 @@
         <q>Who wrote the first faq?</q>
         <a><p>According to Wikipedia, "The acronym FAQ was developed between 1982 and 1985 by Eugene Miya of NASA for the SPACE mailing list."<link url="https://en.wikipedia.org/wiki/FAQ"></link></p></a>
     </entry>
+    <entry>
+        <q>Why do we need faqs?</q>
+        <a><p>Because people think it is enough to read an faq instead of the manual.</p></a>
+    </entry>
+
 </faq>
